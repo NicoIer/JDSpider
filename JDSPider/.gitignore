@@ -1,0 +1,6 @@
+/Analyse/
+show_debug.py
+*.exe
+*.ipynb
+*.csv
+*/.ipynb_checkpoints
